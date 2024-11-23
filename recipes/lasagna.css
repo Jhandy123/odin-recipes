@@ -1,0 +1,44 @@
+* {
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    font-variant: normal;
+    font-stretch: expanded;
+    font-style: bold;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    font-variant: normal;
+    font-stretch: expanded;
+    font-style: bold;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    font-variant: normal;
+    font-stretch: expanded;
+    font-style: bold;
+
+
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+
+
+}
